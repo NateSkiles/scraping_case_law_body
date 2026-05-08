@@ -1,0 +1,17 @@
+{
+  "name": "scraping_case_law",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "serpapi": "^2.2.1",
+    "turndown": "^7.2.4"
+  }
+}
