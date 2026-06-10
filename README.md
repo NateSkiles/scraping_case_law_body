@@ -69,5 +69,4 @@ Each language-specific README includes setup instructions.
 
 ## Blog post
 
-[Link Blog]
-
+- [How to Extract Full Opinion Text from Google Scholar Case Law with SerpApi](https://serpapi.com/blog/how-to-extract-full-opinion-text-from-google-scholar-case-law-with-serpapi/)
